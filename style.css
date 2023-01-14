@@ -1,0 +1,142 @@
+*{margin: 0; box-sizing: border-box; padding:0;}
+.bodystyle{
+    width:100%;
+    margin:0 auto;
+}
+
+.start{
+    position: relative;
+    left: 2%;
+    width: 8.5%;
+    bottom: 7px;
+}
+#logoid{
+    width:100px;
+   
+}
+.dropdown-menu[data-bs-popper] {
+    top: 96%;
+    left: 1052px;
+    margin-top: 0.125rem;
+}
+.nav-link{
+    font-family: var(--bs-font-sans-serif);
+    font-size: 13px;
+    font-weight: 400;
+    margin-left:12px;
+}
+.carousel-item{
+    position: relative;
+ }
+.carousel-caption{
+    position:absolute;
+    top:20%;
+    left: 10%!important;
+    color:black;
+    text-align: left;
+    font-size: 10pt;
+}
+
+.carousel-caption button{
+    color:#fff;
+    background:#0067b8;
+    font-size:1rem;
+    padding:10px 20px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 3px;
+
+    
+}
+#btn2{
+    color:black;
+    background:#0068b800;
+    font-size:1rem;
+    padding:10px 20px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 3px;
+
+}
+#secondpic{
+    position:absolute;
+    top:15%;
+    left: 10%!important;
+    color:white;
+    text-align: left;;
+}
+.row {
+    text-align: center;
+}
+main{
+    margin:40px 0;
+}
+.card{border:none;}
+
+.card-body{
+    text-align: left;
+    padding: 5px 0!important;
+}
+
+.xboxstyle{
+    
+    width:90%;
+    margin:5%;
+}
+.carousel-caption1{
+    position:absolute;
+    top:30%;
+    left: 9%!important;
+    color:black;
+    text-align: left;
+    font-size: 10pt;
+}
+.carousel-caption1 button{
+    color:#fff;
+    background:#0067b8;
+    font-size:1rem;
+    padding:10px 20px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 3px;
+}
+.socialmedia{
+    margin-bottom: 40px;
+}
+.fa-twitter{
+   color: black;
+}
+.fa-facebook{
+    color: black;
+}
+.fa-youtube{
+    color: black;
+}
+footer{
+    background:#f2f2f2;
+    padding-top:30px;
+    padding-bottom: 15px;
+    
+}
+footer p{
+    text-align: left;
+}
+footer li{
+    list-style: none;
+    font-size: 11px;
+    text-align: left;
+    line-height: 30px;
+}
+footer a{
+    text-decoration: none;
+    color:#818181;
+}
+.fontsizing{
+    font-size: 11px;
+    line-height: 16px;
+}
+.credits{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
